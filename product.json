@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "image": "headphone.jpg",
+    "title": "Fetch API integration",
+    "price": 120
+  },
+  {
+    "id": 1,
+    "image": "mobile.jpg",
+    "title": "Realme x2",
+    "price": 160
+  },
+  {
+    "id": 2,
+    "image": "cam.jpg",
+    "title": "250D DSLR Camera",
+    "price": 230
+  },
+  {
+    "id": 3,
+    "image": "tab.jpg",
+    "title": "well rounded budget tablet",
+    "price": 100
+  }
+]

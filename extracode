@@ -1,0 +1,4 @@
+/*function delElement(a) {
+  cart.splice(a, 1);
+  displaycart();
+}*/ //61to 64
